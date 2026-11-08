@@ -16,8 +16,7 @@ Graduate analytical roles where mathematics, programming and statistics support 
 **[Car Insurance Claims Analysis](https://github.com/niyad-mohamoud/insurance-data-analysis)** (Python, Pandas, Scikit-learn)
 - Analysed insurance claim rates across age and gender groups.
 - Cleaned inconsistent postcode data and calculated distances with the Haversine formula.
-- Built a Decision Tree regression model to predict claim values, evaluated with Mean Absolute Error ([value]).
-- Finding: [one specific, verified finding].
+- Built a Decision Tree regression model to predict claim values and evaluated it using Mean Absolute Error.
 
 **Corporate Finance Valuation: Vitalis Medical Supplies** (Excel, financial modelling)
 - Built a discounted cash flow valuation using a 9.47% WACC and 2.5% terminal growth, estimating enterprise value at £1.47bn and equity value at £1.37bn.
@@ -26,9 +25,9 @@ Graduate analytical roles where mathematics, programming and statistics support 
 ---
 
 ## Skills
-- **Programming and analysis:** Python (Pandas, NumPy, Matplotlib, Scikit-learn), Git and GitHub [add SQL and R only if you can use them unaided]
+- **Programming and analysis:** Python (Pandas, NumPy, Matplotlib, Scikit-learn), Git and GitHub
 - **Mathematics and modelling:** probability and statistics, mathematical modelling, linear programming, sensitivity analysis, Bayesian analysis, DCF valuation
-- **Tools:** Excel, LaTeX (Overleaf) [add Power BI only if you can build a dashboard unaided]
+- **Tools:** Excel, LaTeX (Overleaf)
 
 ---
 

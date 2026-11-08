@@ -1,61 +1,43 @@
-# 👋 Hi, I'm Niyad Mohamoud
+# Niyad Mohamoud
 
-I’m a final-year **Mathematics with Finance and Economics (BSc)** student, aspiring to become a **Quantitative Analyst** or **Data Analyst**.  
-I have hands-on experience in **Python**, **Excel**, and **data analysis projects**, including working with large datasets, statistical modeling, and visualization.
+Mathematics with Finance and Economics graduate (BSc, City St George's, 2:2) with Python and Excel experience in data analysis, statistical modelling and financial valuation. Interested in applying analysis and modelling to risk, pensions and public-sector decision-making.
 
-I’m driven by **curiosity** — the desire to uncover patterns, challenge assumptions, and turn data into actionable insights.
-
----
-
-## 🎯 Career Goals
-I’m seeking a **graduate role** in:  
-- 📊 **Quantitative Analysis** — applying mathematics, programming, and statistics to financial markets  
-- 📈 **Data Analytics** — transforming complex data into insights through modeling, visualization, and machine learning  
-
-I aim to contribute to teams that value **precision, innovation, and evidence-based decision making**.
+I'm driven by curiosity: finding patterns, challenging assumptions and turning data into evidence for decisions.
 
 ---
 
-## 🧠 Relevant Skills & Tools
-**Programming & Data Analysis:** Python, SQL, R, Pandas, NumPy, Matplotlib, Scikit-learn  
-**Mathematical & Analytical Skills:** Calculus, Linear Algebra, Real Analysis, Probability & Statistics, Differential Equations, Vector Calculus, Graph Theory  
-**Finance & Economics Skills:** Fundamentals of Finance, Financial Economics, Corporate Finance, Monetary Economics, Econometrics, Operational Research  
-**Data & Visualization Tools:** Excel, Power BI  
-**Core Concepts:** Statistical modeling, regression, portfolio theory, risk analysis, data-driven decision making  
+## Looking for
+Graduate analytical roles where mathematics, programming and statistics support decisions in areas such as risk, pensions, finance and public policy. I want to work in teams that value accuracy, clear communication and evidence-based decision making.
 
 ---
 
-## 💻 Projects & Practical Experience
-- **Coursework Data Analysis Projects:**  
-  - Analyzed insurance and financial datasets using Python, Pandas, and NumPy  
-  - Built **decision tree models** to predict outcomes based on demographic and financial data  
-  - Applied the **Haversine formula** to calculate distances and explore geospatial trends  
-  - Visualized insights with **Matplotlib** and **Seaborn**  
+## Projects
 
-- **IBM Data Analyst Professional Certificate (in progress):**  
-  - Learning SQL, Python for analytics, data visualization, and applied analytics  
-  - Completing hands-on projects with real-world datasets
+**[Car Insurance Claims Analysis](https://github.com/niyad-mohamoud/insurance-data-analysis)** (Python, Pandas, Scikit-learn)
+- Analysed insurance claim rates across age and gender groups.
+- Cleaned inconsistent postcode data and calculated distances with the Haversine formula.
+- Built a Decision Tree regression model to predict claim values, evaluated with Mean Absolute Error ([value]).
+- Finding: [one specific, verified finding].
 
----
-
-## 🎓 Education
-
-**BSc Mathematics with Finance and Economics** — Final Year *(City University)*  
-
-**Relevant Modules:**  
-- Functions, Vectors & Calculus I & II  
-- Linear Algebra, Real Analysis, Vector Calculus, Differential Equations  
-- Probability, Statistics, and Mathematical Modelling  
-- Programming and Data Science for the Professions  
-- Fundamentals of Finance, Corporate Finance, Financial Economics, Monetary Economics  
-- Econometrics, Operational Research  
-- Graph Theory  
-
-**Skills Gained:**  
-- Strong quantitative and analytical foundation  
-- Applied mathematical and statistical modeling in finance and economics  
-- Technical skills in Python, data manipulation, visualization, and decision-making models  
+**Corporate Finance Valuation: Vitalis Medical Supplies** (Excel, financial modelling)
+- Built a discounted cash flow valuation using a 9.47% WACC and 2.5% terminal growth, estimating enterprise value at £1.47bn and equity value at £1.37bn.
+- Cross-checked the result against public company comparables.
 
 ---
 
-✨ *“Bridging data and decision — one model at a time.”*
+## Skills
+- **Programming and analysis:** Python (Pandas, NumPy, Matplotlib, Scikit-learn), Git and GitHub [add SQL and R only if you can use them unaided]
+- **Mathematics and modelling:** probability and statistics, mathematical modelling, linear programming, sensitivity analysis, Bayesian analysis, DCF valuation
+- **Tools:** Excel, LaTeX (Overleaf) [add Power BI only if you can build a dashboard unaided]
+
+---
+
+## Education
+
+**BSc Mathematics with Finance and Economics**, City St George's, University of London | 2021 to 2026 | 2:2
+
+Modules include Probability and Statistics, Mathematical Modelling, Operational Research, Programming and Data Science, Corporate Finance, Econometrics, Game Theory.
+
+Final-year dissertation (Game Theory): modelled how cooperation emerges and stays stable in the repeated Prisoner's Dilemma, using continuation probability, Evolutionarily Stable Strategies and Axelrod's tournaments.
+
+**In progress:** IBM Data Analyst Professional Certificate
